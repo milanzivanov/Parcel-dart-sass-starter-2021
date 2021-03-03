@@ -1,0 +1,1 @@
+console.log("Parcel starter js");

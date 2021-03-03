@@ -1,0 +1,17 @@
+// @use './index';
+// namespacing
+// @use './index' as i;
+
+// @use "./abstracts/fonts" as f;
+// @use "./abstracts/fonts";
+// @use "./abstracts/colors" as c;
+
+@use "./abstracts" as *;
+@use "./components/cards" as *;
+
+body {
+    // background: f.$font-color;
+    // font-size: f.$font-size;
+    background: $font-color;
+    font-size: $font-size;
+}
