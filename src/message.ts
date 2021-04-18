@@ -1,2 +1,2 @@
 // message.ts
-export default 'Hello, Parcel';
+export default 'typescript Hello, Parcel';

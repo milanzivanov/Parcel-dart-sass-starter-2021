@@ -7,11 +7,9 @@
 // @use "./abstracts/colors" as c;
 
 @use "./abstracts" as *;
-@use "./components/cards" as *;
+@use "./components" as *;
 
 body {
-    // background: f.$font-color;
-    // font-size: f.$font-size;
     background: $font-color;
     font-size: $font-size;
 }
